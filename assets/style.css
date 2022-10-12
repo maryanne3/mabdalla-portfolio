@@ -72,10 +72,57 @@
 .main{
     display: flex;
     flex-direction: column;
-    border: 1px solid white;
+    border: 1px solid whitesmoke;
     align-items: center;
     position: absolute;
     top: 30%;
     right: 10%;
+}
+.headings{
+    font-family: century;
+    font-size: 3rem;
+    text-align: center;
+    margin: 40px opx;
+}
+.btn{
+    padding: 10px 35px;
+    background-color: hotpink;
+    border: 1px solid whitesmoke;
+    color: white;
+    outline: none;
+    transition: .6s ease;
+}
+.btn.hover{
+    cursor: pointer;
+    background-color: hotpink ;
+    color: whitesmoke;
+    box-shadow: 0 0 5px hotpink, 0 0 10px hotpink, 0 0 15px hotpink;
+    font-weight: bold;
+}
+
+/*About me section*/
+#about{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+#pic{
+    display: flex;    
+}
+#pic img{
+    width: 375x;
+    height: 300px;
+}
+#intro{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    padding: 10px;
+}
+#intro h2{
+    font-size: 2rem;
+    margin-bottom: 20px;
 
 }
