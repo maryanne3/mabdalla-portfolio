@@ -1,2 +1,3 @@
 # maryan-s-portifolio-
-A portfolio of work which showcases my skills and talents to employers. 
+A portfolio which showcases my skills and talents to employers. 
+
