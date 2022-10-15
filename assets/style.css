@@ -26,14 +26,14 @@
     font-weight: bold;
 }
 
-.navabr ul li a {
+.navbar ul li a {
     text-decoration: none;
     color: hotpink;
     padding: 8px 25px;
     transition: all 0.3 ease 0s;
 }
 
-.navabr ul li a:hover{
+.navbar ul li a:hover{
      background-color: cornflowerblue;
      color: white;
      box-shadow:0 0 10px white;
