@@ -17,6 +17,5 @@ https://github.com/maryanne3/mabdalla-portfolio
 
 ## Screenshots 
 
-![](assets/images/127.0.0.1_5500_index.html%20(1).png)
-
+![](assets/images/portfolio%20snapshot%20.png)
 ![](assets/images/HTML%20snapshot.png)
