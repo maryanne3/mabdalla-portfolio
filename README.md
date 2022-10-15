@@ -2,11 +2,14 @@
 A portfolio which showcases my skills and talents to employers. 
 
 ## Outline  
+The task for this weeks project was to build a portfolio website application from scrath. 
+
+![](assets/images/user%20story.png)
 
 ## Links
-https://maryanne3.github.io/mabdalla-portfolio/
+[https://maryanne3.github.io/mabdalla-portfolio/]
 
-https://github.com/maryanne3/mabdalla-portfolio
+[https://github.com/maryanne3/mabdalla-portfolio]
 
 ## Screenshots 
 
